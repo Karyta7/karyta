@@ -1,5 +1,5 @@
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
-    music.play(music.stringPlayable("B A G A A G A E ", 500), music.PlaybackMode.UntilDone)
+    music.play(music.stringPlayable("C5 - - - - - - - ", 999), music.PlaybackMode.UntilDone)
 })
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
@@ -8,11 +8,11 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . 2 2 9 9 9 2 2 2 2 2 9 . . . 
-    . 2 2 2 2 2 2 2 9 9 2 2 9 9 . . 
-    . 2 2 2 2 2 2 9 2 2 2 2 9 9 . . 
-    . f f . . . . . . . . . f f . . 
-    . f f . . . . . . . . . f f . . 
+    . . 2 2 2 2 2 2 2 2 2 2 9 . . . 
+    . 5 5 5 5 5 5 5 5 5 5 5 9 9 . . 
+    . 2 2 2 2 2 2 2 2 2 2 2 9 9 . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
